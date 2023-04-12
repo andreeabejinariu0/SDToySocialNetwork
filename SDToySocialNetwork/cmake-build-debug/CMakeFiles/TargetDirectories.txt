@@ -1,0 +1,3 @@
+C:/Users/CORNELIU/Desktop/An1UBB/SDA/proiect/SDToySocialNetwork/cmake-build-debug/CMakeFiles/SDToySocialNetwork.dir
+C:/Users/CORNELIU/Desktop/An1UBB/SDA/proiect/SDToySocialNetwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CORNELIU/Desktop/An1UBB/SDA/proiect/SDToySocialNetwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir

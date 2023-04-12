@@ -1,0 +1,37 @@
+1 2 Neata!
+26 3 Succes!
+1 33 Vorbim?
+2 1 Salut!
+33 1 Sigur!
+6 2 Ce faci?
+2 6 Sunt obosita!
+3 26 Multumesc!
+26 3 Cu mult drag!
+29 3 Esti ocupata?
+3 29 Vine sesiuneaaa!
+2 29 Cand ajungi acasa?
+29 2 Imediat!:)
+51 17 Ma ajuti?
+17 51 Cu tot dragul!
+8 51 Ti-ai facut proiectu la SDA?
+51 8 Dada!Am reusit si eu!:)
+8 51 Ma bucur!
+32 8 Vii la teatru?
+8 32 Da!Ia-mi bilete!
+10 32 Mergi la cumparaturi?
+32 10 Acuma!
+10 32 Sa nu uiti de paine!
+6 42  La ce facultate esti?
+42 6 La medicina!
+42 10 Vii la shopping?
+10 42 Sunt la munca!
+13 21 Esti liber in weekend?
+21 13 Am de invatat!
+33 13 Pot sa ma ajuti la geometrie?
+13 33 Cu tot dragul!
+17 6 Vii in weekend cu trenul?
+6 17 Raman la Cluj!
+21 2 Cum ti s-a parut opera?
+2 21 Se putea si mai bine!
+26 29 Vrei sa ma impletesti?
+29 26 In cinci minute!
